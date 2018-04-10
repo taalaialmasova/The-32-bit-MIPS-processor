@@ -1,0 +1,32 @@
+Quartus II Archive log --	C:/Users/aTa/Desktop/Taalai_Almasova_141044094/finalproject.qarlog
+
+Archive:	C:/Users/aTa/Desktop/Taalai_Almasova_141044094/finalproject.qar
+Date:		Wed Jan 03 23:45:22 2018
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+D:/verilog/archiv/project3/ALU.v
+D:/verilog/archiv/project3/allInstr.txt
+D:/verilog/archiv/project3/data.mem
+D:/verilog/archiv/project3/db/last.db_info
+D:/verilog/archiv/project3/incremental_db/compiled_partitions/last.db_info
+D:/verilog/archiv/project3/instr_testbench.v
+D:/verilog/archiv/project3/instruction.mem
+D:/verilog/archiv/project3/last.qpf
+D:/verilog/archiv/project3/last.qsf
+D:/verilog/archiv/project3/mips_AluControl1.v
+D:/verilog/archiv/project3/mips_controlUnit.v
+D:/verilog/archiv/project3/mips_core.v
+D:/verilog/archiv/project3/mips_data_mem.v
+D:/verilog/archiv/project3/mips_instr_mem.v
+D:/verilog/archiv/project3/mips_registers.v
+D:/verilog/archiv/project3/mips_testbench.v
+D:/verilog/archiv/project3/registers.mem
+D:/verilog/archiv/project3/simulation/modelsim/instruction.mem
+D:/verilog/archiv/project3/simulation/modelsim/registers.mem
+D:/verilog/archiv/project3/simulation/modelsim/res_registers.mem
+c:/altera/13.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 21 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
